@@ -1,0 +1,29 @@
+p {
+    text-align: center;
+    width: 602px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.title_even, .title_odd {
+    background-color: white;
+    font-weight: bold;
+}
+.smalldiv {
+    background-color: rosybrown;
+}
+.image_even, .image_odd {
+    border: 1px solid black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    cursor: pointer;
+}
+.title_odd, .image_odd {
+    float: right;
+}
+.wrapper {
+    padding-top: 10px;
+    background-color: rosybrown;
+}
